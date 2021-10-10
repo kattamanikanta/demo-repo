@@ -4,3 +4,4 @@
 *.py
 *.net
 !venky.java
+[acgt]*.txt
