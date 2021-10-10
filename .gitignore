@@ -1,2 +1,5 @@
 *.ppk
 *.pem
+*.java
+*.py
+*.net
